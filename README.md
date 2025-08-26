@@ -25,7 +25,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 ### Technical Competencies
 
 **Core Development**
-- **Rust** - Production-ready Solana programs, Anchor framework, Pinocchio low-level development
+- **Rust** - Production-ready Solana programs, Anchor framework, no_std development, Pinocchio low-level development
 - **TypeScript/JavaScript** - Full-stack dApp development, React/Next.js, wallet integration
 - **Smart Contract Architecture** - Program design, security best practices, cross-program invocations
 - **Blockchain Fundamentals** - Account models, transaction processing, consensus mechanisms
