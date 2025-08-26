@@ -44,8 +44,8 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 
 ## Featured Projects
 
-### Crisis Companion - Solana Mobile Hackathon
-**Award-winning mobile application demonstrating real-world blockchain utility**
+### Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon
+**Mobile application demonstrating real-world blockchain utility**
 
 - **Technical Achievement**: Built a comprehensive crisis response system using Solana's mobile capabilities
 - **Business Value**: Demonstrated how blockchain can enhance emergency services and community safety
@@ -89,7 +89,7 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 
 I'm actively engaged in continuous learning through:
 - **Ackee School of Solana Season 7** - Advanced program development and ecosystem architecture with graduation NFT recognition
-- **Ackee VSCode Security Extension** - Contributing to development and testing of innovative blockchain security tools
+- **Ackee VSCode Security Extension** - Contributor NFT for testing and feedback on innovative blockchain security tools
 - **RareSkills.io Rust Security Bootcamp** - Deep dive into smart contract security and best practices
 - **RareCode Learning Platform** - Pre-deployment alpha tester for cutting-edge Rust education tools
 - **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program
