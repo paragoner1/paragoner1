@@ -2,6 +2,12 @@
 
 **Strategic Technology Leader | Solana Ecosystem Developer | Complex Systems Architect**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 ---
 
 ## Professional Journey
@@ -76,6 +82,14 @@ I'm interested in opportunities that leverage both my technical skills and strat
 **Location**: United States  
 **Availability**: Open to strategic opportunities  
 **Focus Areas**: Solana development, DeFi protocols, enterprise blockchain solutions, ecosystem infrastructure
+
+---
+
+### 📊 GitHub Stats
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=paragoner1&show_icons=true&theme=radical&hide_border=true)
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragoner1&layout=compact&theme=radical&hide_border=true)
 
 ---
 
