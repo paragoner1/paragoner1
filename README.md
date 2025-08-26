@@ -44,7 +44,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 
 ## Featured Projects
 
-### Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon
+### [Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion)
 **Mobile application demonstrating real-world blockchain utility**
 
 - **Technical Achievement**: Built a comprehensive crisis response system using Solana's mobile capabilities
@@ -52,7 +52,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Innovation**: Leveraged Solana's speed and cost advantages for real-time crisis management
 - **Status**: Currently under final judging review
 
-### Solana Development Portfolio
+### [Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)
 **Comprehensive learning journey through advanced blockchain development**
 
 - **Anchor Framework**: Production-ready smart contracts with proper error handling and security
@@ -61,7 +61,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Token Economics**: SPL token creation, NFT standards, and tokenomics design
 - **Gaming Applications**: Real-time game mechanics, player account management, cross-game interoperability
 
-### Live Accelerator Microservices Project
+### [Live Accelerator Microservices Project](https://github.com/paragoner1/live-accelerator-project)
 **Production-grade authentication and application services**
 
 - **Microservices Architecture**: Service separation, Docker containerization, inter-service communication
@@ -101,7 +101,10 @@ I'm actively engaged in continuous learning through:
 I'm interested in opportunities that leverage both my technical skills and strategic thinking. Whether it's building the next generation of DeFi protocols, developing enterprise blockchain solutions, or contributing to core ecosystem infrastructure, I'm focused on projects that have real-world impact.
 
 **Location**: United States  
-**Availability**: Open to strategic opportunities  
+**Status**: Open to strategic opportunities  
+**Email**: paragoner.dev@gmail.com  
+**Discord**: @paragoner1  
+**X/Twitter**: @paragoner1  
 **Focus Areas**: Solana development, DeFi protocols, enterprise blockchain solutions, ecosystem infrastructure
 
 ---
