@@ -1,4 +1,4 @@
-# Ryan O'Meara
+# Paragoner
 
 **Strategic Technology Leader | Solana Ecosystem Developer | Complex Systems Architect**
 
@@ -86,7 +86,7 @@ I'm interested in opportunities that leverage both my technical skills and strat
 ---
 
 ### 📊 GitHub Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=paragoner1&show_icons=true&theme=radical&hide_border=true)
+![Paragoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=paragoner1&show_icons=true&theme=radical&hide_border=true)
 
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragoner1&layout=compact&theme=radical&hide_border=true)
