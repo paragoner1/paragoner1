@@ -61,7 +61,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Token Economics**: SPL token creation, NFT standards, and tokenomics design
 - **Gaming Applications**: Real-time game mechanics, player account management, cross-game interoperability
 
-### [Live Accelerator Microservices Project](https://github.com/paragoner1/live-accelerator-project)
+### [Live Accelerator Microservices Project](https://github.com/paragoner1/live-bootcamp-project)
 **Production-grade authentication and application services**
 
 - **Microservices Architecture**: Service separation, Docker containerization, inter-service communication
