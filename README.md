@@ -29,12 +29,18 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **TypeScript/JavaScript** - Full-stack dApp development, React/Next.js, wallet integration
 - **Smart Contract Architecture** - Program design, security best practices, cross-program invocations
 - **Blockchain Fundamentals** - Account models, transaction processing, consensus mechanisms
+- **Microservices Architecture** - Service separation, inter-service communication, Docker containerization
+- **Production Backend Systems** - Axum web framework, PostgreSQL, Redis, JWT authentication
+- **Domain-Driven Design** - Clean architecture, trait-based abstractions, comprehensive error handling
 
 **Domain Expertise**
 - **Financial Systems** - Complex accounting operations, regulatory compliance, risk management
 - **Healthcare Technology** - HIPAA compliance, audit functions, secure data handling
 - **Strategic Planning** - Budget execution, resource allocation, performance optimization
 - **Team Leadership** - Cross-functional coordination, stakeholder management, process improvement
+- **Enterprise Systems** - Production deployment, service orchestration, infrastructure management
+- **Security & Authentication** - JWT token management, password security, input validation
+- **Observability & Monitoring** - Structured logging, request tracing, error tracking
 
 ## Featured Projects
 
@@ -55,6 +61,15 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Token Economics**: SPL token creation, NFT standards, and tokenomics design
 - **Gaming Applications**: Real-time game mechanics, player account management, cross-game interoperability
 
+### Live Accelerator Microservices Project
+**Production-grade authentication and application services**
+
+- **Microservices Architecture**: Service separation, Docker containerization, inter-service communication
+- **Authentication System**: JWT token management, Argon2 password hashing, secure session handling
+- **Database Integration**: PostgreSQL with SQLx, Redis caching, database migrations
+- **Production Deployment**: Docker Hub integration, environment configuration, service orchestration
+- **Observability**: Structured logging, request tracing, comprehensive error handling
+
 ## Strategic Approach
 
 My development philosophy centers on **architectural thinking** rather than just coding. Every system I build considers:
@@ -63,6 +78,8 @@ My development philosophy centers on **architectural thinking** rather than just
 - **Security**: What are the attack vectors and how do we mitigate them?
 - **Compliance**: How does this integrate with existing regulatory frameworks?
 - **User Experience**: How do we make complex technology accessible and valuable?
+- **Production Readiness**: How do we ensure reliability, monitoring, and maintainability?
+- **System Integration**: How do components work together in a distributed environment?
 
 ## Industry Perspective
 
