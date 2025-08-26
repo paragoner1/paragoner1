@@ -73,6 +73,9 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 I'm actively engaged in continuous learning through:
 - **Ackee School of Solana Season 7** - Advanced program development and ecosystem architecture
 - **RareSkills.io Rust Security Bootcamp** - Deep dive into smart contract security and best practices
+- **RareCode Learning Platform** - Pre-deployment alpha tester for cutting-edge Rust education tools
+- **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program
+- **Let's Get Rusty Live Accelerator** - Active participant in advanced Rust development acceleration
 - **Community Engagement** - Contributing to open-source projects and ecosystem development
 
 ## Contact & Collaboration
