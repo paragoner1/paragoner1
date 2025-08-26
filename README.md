@@ -44,7 +44,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 
 ## Featured Projects
 
-### [Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion-original)
+### [Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion)
 **Mobile application demonstrating real-world blockchain utility**
 
 - **Technical Achievement**: Built a comprehensive crisis response system using Solana's mobile capabilities
