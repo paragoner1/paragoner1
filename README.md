@@ -7,10 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Focused-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Solana%20Hackathon-Participant-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Solana Mobile SDK](https://img.shields.io/badge/Solana%20Mobile%20SDK-Expert-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Scalable Security](https://img.shields.io/badge/Scalable%20Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Solana Mobile Hackathon 2025](https://img.shields.io/badge/Solana%20Mobile%20Hackathon%202025-Participant-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 ---
 
