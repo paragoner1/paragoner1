@@ -34,12 +34,12 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Domain-Driven Design** - Clean architecture, trait-based abstractions, comprehensive error handling
 
 **Domain Expertise**
-- **Financial Systems** - Complex accounting operations, regulatory compliance, risk management
+- **Financial Systems** - Complex accounting operations, regulatory compliance, risk management, with a strong security focus honed through years of auditing and protecting sensitive financial data
 - **Healthcare Technology** - HIPAA compliance, audit functions, secure data handling
+- **Blockchain Security** - Smart contract auditing and best practices (via RareSkills.io Rust Security Bootcamp and Ackee VSCode Security Extension contributions); implemented in production auth/app services with advanced features like JWT authentication, Argon2 hashing, and input validation
 - **Strategic Planning** - Budget execution, resource allocation, performance optimization
 - **Team Leadership** - Cross-functional coordination, stakeholder management, process improvement
 - **Enterprise Systems** - Production deployment, service orchestration, infrastructure management
-- **Security & Authentication** - JWT token management, password security, input validation
 - **Observability & Monitoring** - Structured logging, request tracing, error tracking
 
 ## Featured Projects
