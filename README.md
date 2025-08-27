@@ -12,7 +12,7 @@
 
 ## Professional Journey
 
-After 16 years leading financial operations for a major healthcare system—managing accounting, compliance, payroll, disbursements, and budget execution—I made a calculated pivot into blockchain technology. This transition wasn't just a career change; it was a strategic response to the evolving landscape of decentralized systems and their potential to transform how we think about trust, ownership, and value exchange.
+After 16 years leading financial operations for a major healthcare system—managing accounting, compliance, payroll, disbursements, and budget execution—I made a calculated pivot into blockchain technology. The timing aligned perfectly with Elon Musk's Department of Government Efficiency (D.O.G.E.) initiative, which offered a deferred resignation program that allowed me to transition from optimizing traditional financial systems to building the next generation of efficient, decentralized solutions. This transition represented more than a career change; it was a strategic response to the evolving landscape of decentralized systems and their potential to transform how we think about trust, ownership, and value exchange.
 
 My background in healthcare finance taught me that the most critical systems are those that handle real-world consequences. When lives and livelihoods depend on your decisions, you develop a particular approach to risk management, compliance, and system architecture. These skills translate directly to building robust, scalable blockchain solutions.
 
