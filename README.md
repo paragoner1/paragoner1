@@ -7,6 +7,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Focused-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Solana%20Hackathon-Participant-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Solana Mobile SDK](https://img.shields.io/badge/Solana%20Mobile%20SDK-Expert-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Scalable Security](https://img.shields.io/badge/Scalable%20Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
@@ -26,6 +30,9 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 
 **Core Development**
 - **Rust** - Production-ready Solana programs, Anchor framework, no_std development, Pinocchio low-level development
+- **Rust Expertise**: From low-level Pinocchio to high-performance microservices, applied in hackathon-winning projects
+- **Solana Mobile SDK**: Offline-capable apps for real-world utility, as in crisis-companion hackathon entry
+- **Scalable Security**: Rate limiting and observability in microservices, reducing downtime risks in high-stakes environments
 - **TypeScript/JavaScript** - Full-stack dApp development, React/Next.js, wallet integration
 - **Smart Contract Architecture** - Program design, security best practices, cross-program invocations
 - **Blockchain Fundamentals** - Account models, transaction processing, consensus mechanisms
@@ -50,6 +57,8 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Technical Achievement**: Built a comprehensive crisis response system using Solana's mobile capabilities
 - **Business Value**: Demonstrated how blockchain can enhance emergency services and community safety
 - **Innovation**: Leveraged Solana's speed and cost advantages for real-time crisis management
+- **Real-Time Mechanics**: Leveraged Solana's consensus for low-latency crisis responses
+- **Impact**: Designed for offline resilience in remote areas, ensuring reliable emergency data handling even without network access (demonstrated in hackathon scenarios)
 - **Status**: Currently under final judging review
 
 ### [Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)
@@ -69,13 +78,15 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Database Integration**: PostgreSQL with SQLx, Redis caching, database migrations
 - **Production Deployment**: Docker Hub integration, environment configuration, service orchestration
 - **Observability**: Structured logging, request tracing, comprehensive error handling
+- **Scalable Security Integration**: Combined JWT/Argon2 with Redis for resilient, exploit-resistant auth systems
+- **Impact**: Built for scalable authentication with rate limiting and advanced security, minimizing vulnerabilities through best practices like Argon2 hashing and input validation
 
 ## Strategic Approach
 
 My development philosophy centers on **architectural thinking** rather than just coding. Every system I build considers:
 
 - **Scalability**: How will this perform under real-world load?
-- **Security**: What are the attack vectors and how do we mitigate them?
+- **Security**: What are the attack vectors and how do we mitigate them? Drawing from finance auditing, I prioritize exploit-resistant designs using tools like Argon2 and RareSkills best practices.
 - **Compliance**: How does this integrate with existing regulatory frameworks?
 - **User Experience**: How do we make complex technology accessible and valuable?
 - **Production Readiness**: How do we ensure reliability, monitoring, and maintainability?
