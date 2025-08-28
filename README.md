@@ -36,11 +36,13 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 - **Microservices Architecture** - Service separation, inter-service communication, Docker containerization
 - **Production Backend Systems** - Axum web framework, PostgreSQL, Redis, JWT authentication
 - **Domain-Driven Design** - Clean architecture, trait-based abstractions, comprehensive error handling
+- **Advanced Security Patterns** - Implementation of exploit-resistant designs including proper signer validation, overflow protection, and secure cross-program invocations
 
 **Domain Expertise**
 - **Financial Systems** - Complex accounting operations, regulatory compliance, risk management, with a strong security focus honed through years of auditing and protecting sensitive financial data
 - **Healthcare Technology** - HIPAA compliance, audit functions, secure data handling
 - **Blockchain Security** - Smart contract auditing and best practices (via RareSkills.io Rust Security Bootcamp and Ackee VSCode Security Extension contributions); implemented in production auth/app services with advanced features like JWT authentication, Argon2 hashing, and input validation
+- **Smart Contract Auditing** - Trained in identifying critical vulnerabilities like missing ownership checks, integer overflows, and CPI attacks through RareSkills advanced security curriculum
 - **Strategic Planning** - Budget execution, resource allocation, performance optimization
 - **Team Leadership** - Cross-functional coordination, stakeholder management, process improvement
 - **Enterprise Systems** - Production deployment, service orchestration, infrastructure management
@@ -98,7 +100,7 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 I'm actively engaged in continuous learning through:
 - **Ackee School of Solana Season 7** - Advanced program development and ecosystem architecture with graduation NFT recognition
 - **Ackee VSCode Security Extension** - Contributor NFT for testing and feedback on innovative blockchain security tools
-- **RareSkills.io Rust Security Bootcamp** - Deep dive into smart contract security and best practices
+- **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security specialist training covering critical vulnerabilities: ownership/signer validation, integer overflow protection, CPI attack prevention, and smart contract auditing techniques
 - **RareCode Learning Platform** - Pre-deployment alpha tester for cutting-edge Rust education tools
 - **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program
 - **Let's Get Rusty Live Accelerator** - Active participant in advanced Rust development acceleration
