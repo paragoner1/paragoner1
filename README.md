@@ -27,7 +27,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 
 **Core Development**
 - **Rust** - Production-ready Solana programs, Anchor framework, no_std development, Pinocchio low-level development
-- **Rust Expertise**: From low-level Pinocchio to high-performance microservices, applied in hackathon-winning projects
+- **Rust Expertise**: From low-level Pinocchio to high-performance microservices, applied in hackathon projects and production systems
 - **Solana Mobile SDK**: Offline-capable apps for real-world utility, as in crisis-companion hackathon entry
 - **Scalable Security**: Rate limiting and observability in microservices, reducing downtime risks in high-stakes environments
 - **TypeScript/JavaScript** - Full-stack dApp development, React/Next.js, wallet integration
