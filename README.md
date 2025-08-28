@@ -97,7 +97,7 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 ## Professional Development
 
 I'm actively engaged in continuous learning through:
-- **Ackee School of Solana Season 7** - Advanced program development and ecosystem architecture with graduation NFT recognition
+- **Ackee School of Solana Season 7** - Advanced program development and ecosystem architecture (in progress)
 - **Ackee VSCode Security Extension** - Contributor NFT for testing and feedback on innovative blockchain security tools
 - **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security specialist training covering critical vulnerabilities: ownership/signer validation, integer overflow protection, CPI attack prevention, and smart contract auditing techniques
 - **RareCode Learning Platform** - Pre-deployment alpha tester for cutting-edge Rust education tools
