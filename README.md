@@ -84,7 +84,7 @@ I'm currently immersed in the Solana ecosystem, building production-ready progra
 My development philosophy centers on **architectural thinking** rather than just coding. Every system I build considers:
 
 - **Scalability**: How will this perform under real-world load?
-- **Security**: What are the attack vectors and how do we mitigate them? Drawing from finance auditing, I prioritize exploit-resistant designs using tools like Argon2 and RareSkills best practices.
+- **Security**: What are the attack vectors and how do we mitigate them? Drawing from finance auditing, I prioritize exploit-resistant designs using tools like Argon2 and security best practices from RareSkills and Ackee training.
 - **Compliance**: How does this integrate with existing regulatory frameworks?
 - **User Experience**: How do we make complex technology accessible and valuable?
 - **Production Readiness**: How do we ensure reliability, monitoring, and maintainability?
