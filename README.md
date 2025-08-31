@@ -56,9 +56,8 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 
 ## Featured Projects
 
-### Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon
+### [Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion)
 
-**[Repository](https://github.com/paragoner1/crisis-companion)**  
 **Production-grade AI-powered emergency response system demonstrating advanced on-device machine learning**
 
 * **AI Architecture Achievement**: Engineered a complete on-device inference pipeline using ONNX Runtime with Whisper (multilingual STT), MobileBERT (medical symptom clustering), and T5 (dynamic guidance generation) - processing emergency scenarios in <200ms with >95% accuracy
@@ -69,9 +68,8 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Technical Innovation**: Developed adaptive user profiling system that personalizes AI responses based on experience level (layperson to medical professional), demonstrating advanced context-aware machine learning
 * **Status**: Advanced to final judging phase, representing cutting-edge intersection of AI/ML and Web3 technologies
 
-### Solana Development Portfolio
+### [Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)
 
-**[Repository Examples](https://github.com/paragoner1?tab=repositories)**  
 **Advanced blockchain development with focus on real-world utility**
 
 * **Anchor Framework**: Production-ready smart contracts with proper error handling, security patterns, and gas optimization
@@ -80,9 +78,8 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Token Economics**: SPL token creation, NFT standards, tokenomics design, and cross-program interoperability
 * **Gaming Applications**: Real-time game mechanics, player account management, and cross-game asset portability
 
-### Live Accelerator Microservices Project
+### [Live Accelerator Microservices Project](https://github.com/paragoner1/live-bootcamp-project)
 
-**[Repository](https://github.com/paragoner1/live-accelerator)**  
 **Enterprise-grade authentication and application services with advanced security**
 
 * **Microservices Architecture**: Service separation, Docker containerization, inter-service communication, and production deployment strategies
