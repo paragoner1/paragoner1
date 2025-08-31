@@ -4,18 +4,12 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![AI](https://img.shields.io/badge/RNNoise-FF6B35?style=for-the-badge&logo=waveform&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Mobile AI](https://img.shields.io/badge/Mobile_AI-00D4AA?style=for-the-badge&logo=android&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Mobile AI](https://img.shields.io/badge/Mobile_AI-00D4AA?style=for-the-badge&logo=android&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-4285F4?style=for-the-badge&logo=security&logoColor=white)
 ![Solana Mobile](https://img.shields.io/badge/Solana_Mobile-9945FF?style=for-the-badge&logo=android&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Hackathon_2025-FF4081?style=for-the-badge&logo=trophy&logoColor=white)
 
 ---
 
@@ -31,9 +25,9 @@ This transition represented more than a career change; it was a strategic respon
 
 I'm currently architecting production-ready AI systems that solve real-world problems, with particular expertise in on-device machine learning, privacy-preserving inference, and the intersection of AI with high-performance blockchain technology. My approach combines deep technical understanding of modern ML architectures with strategic thinking about how these technologies can create genuine value.
 
-### Technical Competencies
+## Technical Competencies
 
-**AI/ML Systems Architecture**
+**AI/ML Systems Architecture** (Demonstrated in Solana SOS Project)
 
 * **On-Device Inference Optimization** - Production deployment of transformer models (Whisper, BERT variants, T5) with ONNX Runtime, achieving <200ms end-to-end processing on mobile hardware
 * **Advanced Audio Processing** - Real-time noise reduction with RNNoise, mel-spectrogram generation, and multilingual speech recognition achieving >95% accuracy in challenging acoustic environments
@@ -64,6 +58,7 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 
 ### Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon
 
+**[Repository](https://github.com/paragoner1/crisis-companion)**  
 **Production-grade AI-powered emergency response system demonstrating advanced on-device machine learning**
 
 * **AI Architecture Achievement**: Engineered a complete on-device inference pipeline using ONNX Runtime with Whisper (multilingual STT), MobileBERT (medical symptom clustering), and T5 (dynamic guidance generation) - processing emergency scenarios in <200ms with >95% accuracy
@@ -74,18 +69,9 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Technical Innovation**: Developed adaptive user profiling system that personalizes AI responses based on experience level (layperson to medical professional), demonstrating advanced context-aware machine learning
 * **Status**: Advanced to final judging phase, representing cutting-edge intersection of AI/ML and Web3 technologies
 
-### Advanced AI/ML Portfolio
-
-**Comprehensive expertise in production machine learning systems**
-
-* **Model Optimization**: Quantization of large language models for mobile deployment, achieving 3-5x performance improvements while maintaining accuracy
-* **Privacy-Preserving AI**: Implementation of federated learning concepts and on-device training for sensitive healthcare applications
-* **Real-Time Inference**: Sub-200ms processing pipelines for voice-to-action systems in critical applications
-* **Multi-Modal AI**: Integration of speech recognition, natural language processing, and decision support systems in unified architectures
-* **Production Monitoring**: Comprehensive observability, model drift detection, and automated retraining pipelines for AI systems in production
-
 ### Solana Development Portfolio
 
+**[Repository Examples](https://github.com/paragoner1?tab=repositories)**  
 **Advanced blockchain development with focus on real-world utility**
 
 * **Anchor Framework**: Production-ready smart contracts with proper error handling, security patterns, and gas optimization
@@ -96,6 +82,7 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 
 ### Live Accelerator Microservices Project
 
+**[Repository](https://github.com/paragoner1/live-accelerator)**  
 **Enterprise-grade authentication and application services with advanced security**
 
 * **Microservices Architecture**: Service separation, Docker containerization, inter-service communication, and production deployment strategies
@@ -105,22 +92,11 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Observability Excellence**: Structured logging with tracing, comprehensive error handling, performance monitoring, and alerting systems
 * **Security Integration**: Combined JWT/Argon2 with Redis for resilient, exploit-resistant authentication systems minimizing attack surfaces
 
-## Strategic Approach
+## Development Philosophy and Perspective
 
-My development philosophy centers on **systems thinking** and **reliability engineering** rather than just feature development. Every system I architect considers:
+My development philosophy centers on **systems thinking** and **reliability engineering** rather than just feature development. Every system I architect considers performance at scale, security by design (eliminating attack vectors architecturally), regulatory compliance, user experience excellence, production readiness (99.9% uptime with monitoring), and AI ethics/privacy.
 
-* **Performance at Scale**: How will this perform under real-world load with thousands of concurrent users?
-* **Security by Design**: What are the attack vectors and how do we eliminate them at the architectural level? Drawing from healthcare finance auditing, I prioritize exploit-resistant designs using advanced cryptographic patterns and security best practices.
-* **Regulatory Compliance**: How does this integrate with existing regulatory frameworks while maintaining innovation velocity?
-* **User Experience Excellence**: How do we make sophisticated AI technology accessible and genuinely valuable to end users?
-* **Production Readiness**: How do we ensure 99.9% uptime, comprehensive monitoring, and graceful failure handling?
-* **AI Ethics and Privacy**: How do we build AI systems that are transparent, fair, and respect user privacy while delivering maximum value?
-
-## Industry Perspective
-
-The convergence of AI/ML and blockchain technology represents a paradigm shift in how we build systems that are both intelligent and decentralized. My unique background in healthcare finance provides insight into how these technologies can solve critical problems in regulated industries where trust, compliance, and performance are non-negotiable.
-
-Solana's approach to high-performance, low-cost transactions positions it uniquely for AI-powered applications that require real-time decision making and micropayments. The combination of on-device AI for privacy and blockchain for trust creates unprecedented opportunities for applications that were previously impossible.
+The convergence of AI/ML and blockchain technology represents a paradigm shift in building intelligent, decentralized systems. My healthcare finance background informs how these can solve critical problems in regulated industries where trust, compliance, and performance are non-negotiable. Solana's high-performance, low-cost transactions enable AI-powered apps with real-time decision-making and micropayments, combining on-device AI for privacy with blockchain for trust.
 
 ## Professional Development
 
@@ -137,10 +113,10 @@ I'm actively engaged in continuous learning through:
 
 ## Contact & Collaboration
 
-I'm interested in opportunities that leverage both my AI/ML systems architecture expertise and blockchain development skills. Whether it's building the next generation of intelligent DeFi protocols, developing enterprise AI solutions with blockchain integration, or contributing to core ecosystem infrastructure that advances both fields, I'm focused on projects that have measurable real-world impact.
+I'm open to strategic opportunities in AI/ML and blockchain convergence. Let's discuss building reliable, life-saving tech together – whether intelligent DeFi protocols, enterprise AI with blockchain, or core infrastructure.
 
 **Location**: United States  
-**Status**: Open to strategic opportunities in AI/ML and blockchain convergence  
+**Status**: Open to opportunities  
 **Email**: paragoner.dev@gmail.com  
 **Discord**: @paragoner1  
 **X/Twitter**: @paragoner1  
