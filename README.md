@@ -1,10 +1,7 @@
 # Paragoner
 
-<<<<<<< HEAD
 **Strategic Technology Leader | Solana Ecosystem Developer | Emergency Response Systems Architect**
-=======
 **Strategic Technology Leader | AI/ML Systems Architect | Solana Ecosystem Developer**
->>>>>>> ab2afadc6a0ecb938d3f1d24a79c8b3ece6c3514
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
@@ -64,7 +61,6 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 ## Featured Projects
 
 ### [Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion)
-<<<<<<< HEAD
 **Database-first emergency response system with voice AI integration**
 
 - **Voice AI Achievement**: Implemented production-ready Whisper speech recognition with multilingual support (99+ languages) and real-time noise reduction using RNNoise
@@ -73,7 +69,6 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 - **Mobile Optimization**: Designed for offline resilience in remote areas with comprehensive emergency protocol coverage
 - **Research Focus**: Investigating hybrid AI approaches for future enhancement while maintaining current reliability-first design
 - **Status**: Advanced to final judging phase, representing practical emergency response technology
-=======
 
 **Production-grade AI-powered emergency response system demonstrating advanced on-device machine learning**
 
@@ -84,7 +79,6 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Production Impact**: Designed for real-world deployment across Solana Mobile, Android, and iOS with comprehensive error handling, memory safety, and performance optimization - showcasing enterprise-grade engineering practices
 * **Technical Innovation**: Developed adaptive user profiling system that personalizes AI responses based on experience level (layperson to medical professional), demonstrating advanced context-aware machine learning
 * **Status**: Advanced to final judging phase, representing cutting-edge intersection of AI/ML and Web3 technologies
->>>>>>> ab2afadc6a0ecb938d3f1d24a79c8b3ece6c3514
 
 ### [Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)
 
@@ -135,11 +129,8 @@ I'm open to strategic opportunities in AI/ML and blockchain convergence. Let's d
 **Email**: paragoner.dev@gmail.com  
 **Discord**: @paragoner1  
 **X/Twitter**: @paragoner1  
-<<<<<<< HEAD
 **Focus Areas**: Solana development, emergency response systems, voice AI research, enterprise blockchain solutions
-=======
 **Focus Areas**: AI/ML systems architecture, privacy-preserving machine learning, Solana development, intelligent DeFi protocols, enterprise blockchain solutions
->>>>>>> ab2afadc6a0ecb938d3f1d24a79c8b3ece6c3514
 
 ---
 
