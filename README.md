@@ -51,7 +51,6 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 * **Production Security** - Implementation of advanced security patterns including Argon2 hashing, rate limiting, input validation, and comprehensive audit logging
 
 **Domain Expertise**
-<<<<<<< HEAD
 - **Financial Systems** - Complex accounting operations, regulatory compliance, risk management, with a strong security focus honed through years of auditing and protecting sensitive financial data
 - **Healthcare Technology** - HIPAA compliance, audit functions, secure data handling, emergency response system design
 - **Voice AI Research** - Investigating multilingual speech recognition (Whisper), noise reduction (RNNoise), and privacy-preserving audio processing for critical applications
@@ -61,14 +60,6 @@ I'm currently architecting production-ready AI systems that solve real-world pro
 - **Team Leadership** - Cross-functional coordination, stakeholder management, process improvement
 - **Enterprise Systems** - Production deployment, service orchestration, infrastructure management
 - **Observability & Monitoring** - Structured logging, request tracing, error tracking
-=======
-
-* **Healthcare AI Applications** - Medical symptom analysis, triage assistance, HIPAA-compliant AI architectures, and personalized healthcare guidance systems
-* **Financial Systems Security** - Complex accounting operations, regulatory compliance, risk management, with security practices honed through years of protecting sensitive financial data
-* **Smart Contract Security** - Advanced vulnerability identification through RareSkills.io training: ownership validation, integer overflow protection, CPI attack prevention, and comprehensive smart contract auditing
-* **Enterprise AI Deployment** - Production model serving, monitoring, and maintenance with focus on reliability and compliance in regulated industries
-* **Edge Computing** - Resource-constrained deployment, mobile optimization, and offline-first AI architectures for critical applications
->>>>>>> ab2afadc6a0ecb938d3f1d24a79c8b3ece6c3514
 
 ## Featured Projects
 
