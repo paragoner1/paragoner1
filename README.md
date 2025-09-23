@@ -69,7 +69,6 @@ Voice-activated emergency response app for Solana Mobile, built for remote areas
 * **Real-Time Mechanics**: Achieves <150ms voice-to-action latency and <1 second app launch, confirmed through device benchmarks for real-time reliability.
 * **Security Measures**: Employs AES-256 encryption and HIPAA/GDPR compliance with strict on-device data handling, ensuring sensitive information remains protected.
 * **Impact**: Designed for resilience in disconnected areas, with features like silent SOS alerts and gamified rewards, currently under review in the Solana Mobile Hackathon 2025.
-* **Repository**: https://github.com/paragoner1/crisis-companion (includes demo video and benchmarks)
 
 **[Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)**  
 Comprehensive learning journey through advanced blockchain development
@@ -90,7 +89,6 @@ Production-grade authentication and application services built during the Let's 
 * **Observability**: Includes structured logging, request tracing, and comprehensive error handling to ensure system reliability.
 * **Scalable Security Integration**: Combines JWT/Argon2 with Redis and rate limiting, minimizing risks through best practices like input validation—validated in a full backend workflow.
 * **Impact**: Serves as a solid foundation for enterprise-grade applications, highlighting Rust's strengths in memory-safe, performant systems.
-* **Repository**: https://github.com/paragoner1/live-bootcamp-project
 
 ## Strategic Approach
 
@@ -114,7 +112,7 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 
 * **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security specialist training covering critical vulnerabilities: ownership/signer validation, integer overflow protection, CPI attack prevention, and smart contract auditing techniques
 * **Ackee School of Solana Season 7** - Graduate of advanced program development and ecosystem architecture  
-  ![Ackee Graduation Certificate](./s7-graduate-badge.png width-300)
+  ![Ackee Graduation Certificate](./s7-graduate-badge.png width=300)
 * Ackee VSCode Security Extension - Contributor NFT for testing and feedback on innovative blockchain security tools
 * **Let's Get Rusty Live Accelerator** - Active participant in advanced Rust development acceleration, where I built production-grade microservices including secure auth systems with JWT and Argon2—validating skills in scalable backend architecture, Docker deployment, and real-world error handling for enterprise applications
 * **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program, focusing on memory-safe systems programming
