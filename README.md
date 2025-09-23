@@ -111,8 +111,8 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 **I'm actively engaged in continuous learning with a strong emphasis on blockchain security, validated through hands-on projects that demonstrate production-level skills:**
 
 * **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security specialist training covering critical vulnerabilities: ownership/signer validation, integer overflow protection, CPI attack prevention, and smart contract auditing techniques
-* **Ackee School of Solana Season 7** - Graduate of advanced program development and ecosystem architecture  
-  ![Ackee Graduation Certificate](./S7-graduate-badge.png width=300)
+* **Ackee School of Solana Season 7** - Graduate of advanced program development, security and ecosystem architecture  
+  <img src="./S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="300">
 * Ackee VSCode Security Extension - Contributor NFT for testing and feedback on innovative blockchain security tools
 * **Let's Get Rusty Live Accelerator** - Active participant in advanced Rust development acceleration, where I built production-grade microservices including secure auth systems with JWT and Argon2—validating skills in scalable backend architecture, Docker deployment, and real-world error handling for enterprise applications
 * **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program, focusing on memory-safe systems programming
@@ -129,13 +129,5 @@ Email: paragoner.dev@gmail.com
 Discord: @paragoner1  
 X/Twitter: @paragoner1  
 Focus Areas: Solana security auditing, DeFi protocols, enterprise blockchain solutions, ecosystem infrastructure
-
-### 📊 GitHub Stats
-
-Paragoner's GitHub stats
-
-### 🔥 Top Languages
-
-Top Languages
 
 Building the future of decentralized systems, one secure transaction at a time.
