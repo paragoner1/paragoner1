@@ -112,7 +112,7 @@ The blockchain space is evolving rapidly, and Solana's approach to high-performa
 
 * **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security specialist training covering critical vulnerabilities: ownership/signer validation, integer overflow protection, CPI attack prevention, and smart contract auditing techniques
 * **Ackee School of Solana Season 7** - Graduate of advanced program development, security and ecosystem architecture  
-  <img src="./S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="300">
+  <img src="./S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="300"> <img src="./Contributor.NFT" alt="Ackee Contributor NFT" width="300">
 * Ackee VSCode Security Extension - Contributor NFT for testing and feedback on innovative blockchain security tools
 * **Let's Get Rusty Live Accelerator** - Active participant in advanced Rust development acceleration, where I built production-grade microservices including secure auth systems with JWT and Argon2—validating skills in scalable backend architecture, Docker deployment, and real-world error handling for enterprise applications
 * **Let's Get Rusty Bootcamp** - Graduate of comprehensive Rust development program, focusing on memory-safe systems programming
