@@ -60,7 +60,7 @@ Domain Expertise
 
 ## Featured Projects
 
-**[Solana SOS - Crisis Companion - 2025 Solana Mobile Hackathon](https://github.com/paragoner1/crisis-companion)**  
+**[Solana SOS - Crisis Companion - 2025 Colosseum Cypherpunk Hackathon](https://github.com/paragoner1/crisis-companion)**  
 Voice-activated emergency response app for Solana Mobile, built for remote areas with offline functionality. This project validates practical Rust skills in high-stakes applications, demonstrating reliable integration of Solana for secure token rewards and on-chain verification, while maintaining full offline operation through on-device AI processing.
 
 * **Technical Achievement**: Developed a hybrid architecture with client-side Rust for efficient reward calculations and Anchor for verifiable on-chain awards, ensuring tamper-proof responses.
