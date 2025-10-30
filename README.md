@@ -68,7 +68,7 @@ Voice-activated emergency response app for Solana Mobile, built for remote areas
 * **Innovation**: Leverages Whisper AI for voice recognition with >95% accuracy in noisy environments and <200ms transcription, enhanced by rnnoise, across 99+ languages.
 * **Real-Time Mechanics**: Achieves <150ms voice-to-action latency and <1 second app launch, confirmed through device benchmarks for real-time reliability.
 * **Security Measures**: Employs AES-256 encryption and HIPAA/GDPR compliance with strict on-device data handling, ensuring sensitive information remains protected.
-* **Impact**: Designed for resilience in disconnected areas, with features like silent SOS alerts and gamified rewards, currently under review in the Solana Mobile Hackathon 2025.
+* **Impact**: Designed for resilience in disconnected areas, with features like silent SOS alerts and gamified rewards.
 
 **[Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)**  
 Comprehensive learning journey through advanced blockchain development
