@@ -60,6 +60,11 @@ Domain Expertise
 
 ## Featured Projects
 
+### ORE V2 High-Frequency Mining Bot · Production Live Nov 2025  
+[github.com/paragoner1/ore-mining-bot](https://github.com/paragoner1/ore-mining-bot)
+
+Architected ultra-low-latency production Rust bot achieving **99.8% uptime** and **1.2s average confirmation** over 1,000+ competitive rounds. Adaptive EV-based block selection, dynamic 3-tier staking, custom Tokio async pipeline, Steel-optimized deserialization, token-bucket RPC rate limiting in pure Rust — battle-tested in zero-sum Solana environments.
+
 **[Solana SOS - Crisis Companion - 2025 Colosseum Cypherpunk Hackathon](https://github.com/paragoner1/crisis-companion)**  
 Voice-activated emergency response app for Solana Mobile, built for remote areas with offline functionality. This project validates practical Rust skills in high-stakes applications, demonstrating reliable integration of Solana for secure token rewards and on-chain verification, while maintaining full offline operation through on-device AI processing.
 
