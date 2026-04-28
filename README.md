@@ -1,93 +1,76 @@
-# Paragoner
+# Hi, I'm Ryan O'Meara
 
-**Fractional CFO | Healthcare Finance Leader | Rust Engineer | AI Infrastructure**
+**FinOps Certified Practitioner | Healthcare Finance Leader (CFO) | Cloud Cost & AI Infrastructure Economics**
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-5002A7?style=for-the-badge&logo=anchor&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-4285F4?style=for-the-badge&logo=security&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![FinOps Certified Practitioner](finops-certified-practitioner.png)](https://www.credly.com/badges/9aded7cd-77ad-469a-b9b7-eadf9de9cf9d/public_url) [![Ackee Graduation Certificate](S7-graduate-badge.png)](S7-graduate-badge.png) [![Ackee Contributor NFT](Contributor.NFT)](Contributor.NFT)
 
----
+## About me
 
-## About Me
+Federal healthcare finance leader turned FinOps practitioner. 17 years running enterprise finance at a Level 1A VA healthcare system, seven of them as CFO managing $750M+ budgets and 2,500+ FTE. Forecasting accuracy of 0.002% on a $260M payroll budget. Zero audit findings. Five consecutive Outstanding ratings, all elements Exceptional.
 
-I spent 17 years running finance for federal healthcare organizations - the last 8 as CFO managing $750M+ budgets at a Level 1A VA medical center. Zero audit findings. #1 in my region seven years running. Forecasting accuracy at 0.002% on $260M in salary obligations.
+Now applying that discipline to cloud and AI cost management. FinOps Certified Practitioner as of April 2026. The combination most FinOps teams don't have: enterprise-scale finance leadership plus hands-on Rust on GPU infrastructure.
 
-Then I taught myself Rust and started building the kind of healthcare tech I wish had existed during my time at the VA.
+## What I'm looking for
 
-I'm now working as a fractional CFO for growing healthcare and AI companies. The combination I bring is rare - I've managed $750M budgets with insane forecasting accuracy AND I actually understand the tech stack, the GPU burn rate, and the infrastructure economics that drive costs at AI-enabled companies. I can model your Series B financials and explain your inference costs to the board in the same meeting.
+FinOps and cloud financial management roles where the AI and GPU cost work is real. Open to:
 
-## The Combination
+- Full-time FinOps roles (analyst, manager, director)
+- Fractional CFO engagements at AI and healthcare-tech companies
+- Expert consulting on federal healthcare finance, cloud cost management, or AI infrastructure economics
 
-If you're an AI or healthtech company that needs finance leadership from someone who gets the tech, let's talk. I can:
+Based in Northwest Arkansas, fully remote.
 
-* Structure your Series B financials while understanding your inference cost architecture
-* Model GPU burn rates and infrastructure economics from actual engineering experience
-* Build compliance frameworks with zero audit findings across 6 consecutive years
-* Ship production Rust systems - not just spreadsheets
+## What I'm focused on right now
 
-## Featured Projects
+- Building a public FinOps analytical pipeline ([finops-ai-workloads](https://github.com/paragoner1/finops-ai-workloads))
+- Hands-on AWS cost optimization work: Cost Explorer, Trusted Advisor, Compute Optimizer, Cost Optimization Hub
+- Active applications for FinOps Analyst, Manager, and Director roles in AI-heavy environments
+- Conversations with healthcare-tech and AI-first companies about fractional CFO engagements
 
-**[ORE V2 High-Frequency Mining Bot - Production Live Nov 2025](https://github.com/paragoner1/ore-mining-bot)**
-Architected ultra-low-latency production Rust bot achieving **99.8% uptime** and **1.2s average confirmation** over 1,000+ competitive rounds. Adaptive EV-based block selection, dynamic 3-tier staking, custom Tokio async pipeline, Steel-optimized deserialization, token-bucket RPC rate limiting in pure Rust - battle-tested in zero-sum Solana environments.
+## Featured projects
 
-**[Solana SOS - Crisis Companion](https://github.com/paragoner1/crisis-companion)**
-Voice-activated emergency response app built on Solana. Born from a real emergency - I was performing CPR on my son without being able to call for help. That experience changed my direction.
+**[finops-ai-workloads](https://github.com/paragoner1/finops-ai-workloads)** — A working FinOps analytical pipeline for AI and GPU cloud spend. FOCUS-formatted billing data, Python analysis scripts (parser, tag compliance, GPU cost analyzer, cost-per-inference framework), Jupyter notebook with charts. Demonstrates how the FinOps Framework applies to AI workloads end to end.
 
-* **Voice Recognition**: Whisper AI with >95% accuracy in noisy environments and <200ms transcription across 99+ languages
-* **Performance**: <150ms voice-to-action latency, <1 second app launch
-* **Security**: AES-256 encryption, HIPAA/GDPR compliant, strict on-device data handling
-* **Architecture**: Hybrid client-side Rust + Anchor for verifiable on-chain awards
-* **Impact**: Designed for resilience in disconnected areas with silent SOS alerts and offline functionality
+**[ore-mining-bot](https://github.com/paragoner1/ore-mining-bot)** — Production Solana mining system in Rust. 99.8% uptime, 1.2s average confirmation, 1,000+ competitive rounds. Adaptive EV-based block selection, dynamic 3-tier staking, custom Tokio async pipeline, Steel-optimized deserialization, token-bucket RPC rate limiting. The kind of compute economics and infrastructure cost modeling that translates directly to FinOps work on AI workloads.
 
-**[Solana Development Portfolio](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)**
-Comprehensive advanced blockchain development including Anchor framework, Pinocchio low-level programming, full-stack dApp development, SPL token creation, and NFT standards.
+**[crisis-companion (Solana SOS)](https://github.com/paragoner1/crisis-companion)** — Mobile emergency healthcare app for Solana Mobile. "HeySOS" voice trigger, offline Whisper AI (>95% multilingual accuracy, <150ms latency), sensor-based emergency detection, geocached first responders, automatic 911 alerts. HIPAA/GDPR compliant, AES-256 encryption. Built in Rust.
 
-**[Production Microservices - Live Accelerator](https://github.com/paragoner1/live-bootcamp-project)**
-Enterprise-grade auth and application services in Rust. JWT/Argon2 authentication, PostgreSQL/Redis, Docker deployment, structured logging, and comprehensive error handling.
+**[Ackee-School-of-Solana-Season7](https://github.com/paragoner1/Ackee-School-of-Solana-Season7)** — Advanced Solana development and security coursework. Native, Anchor, PDAs, CPIs, Token 2022, Pinocchio. 13% graduation rate. Companion repo: **[SolAudit-Tool](https://github.com/paragoner1/SolAudit-Tool)** — pure Rust CLI security auditor for smart contract vulnerability detection.
 
-## Technical Competencies
+**[live-bootcamp-project](https://github.com/paragoner1/live-bootcamp-project)** — Production-grade Rust microservices from the Let's Get Rusty Live Accelerator. Auth services with SQLx, PostgreSQL, Redis, Docker Compose, JWT/Argon2 with 2FA.
 
-### Finance & Operations
-* **Financial Systems** - $750M+ budget management, regulatory compliance, risk management, 17 years of auditing and financial data protection
-* **Healthcare Technology** - HIPAA compliance, audit functions, secure data handling
-* **Strategic Planning** - Budget execution, revenue forecasting (0.002% accuracy), resource allocation, performance optimization
-* **Team Leadership** - Built and led 20+ person teams, 91% employee satisfaction, cross-functional coordination
+## Why this combination
 
-### Security-First Development
-* **Smart Contract Auditing**: Critical vulnerability identification - ownership checks, integer overflows, CPI attacks, reentrancy. RareSkills advanced security curriculum.
-* **Blockchain Security**: Secure program design, proper signer validation, overflow protection, secure cross-program invocations. Ackee VSCode Security Extension contributor.
-* **Advanced Security Patterns**: Argon2 hashing, JWT authentication, input validation, secure session handling, rate limiting.
+Most FinOps practitioners come up through cloud engineering or IT finance and have less than five years of total finance experience. Most enterprise CFOs have never written production code. The overlap of 17 years federal-grade financial discipline plus actual Rust on GPU infrastructure is rare in the FinOps talent pool.
 
-### Core Development
-* Rust - Production-ready Solana programs, Anchor framework, no_std development, Pinocchio low-level development
-* Solana Mobile SDK - Offline-capable apps for real-world utility
-* TypeScript/JavaScript - Full-stack dApp development, React/Next.js, wallet integration
-* Production Backend Systems - Axum web framework, PostgreSQL, Redis, JWT authentication
-* AI Integration - On-device AI processing with Whisper, PyTorch/Libtorch C++ bindings for Rust
-* Finance Automation - Power BI dashboards, Python data analysis, VBA automation
+Practically, that means I can model cost-per-inference for an AI product, run variance analysis on a $750M budget, write a Python script to parse FOCUS-formatted CUR data, and explain GPU economics to a CFO in the same conversation.
 
-## Professional Development
+## Tech and tools
 
-* **RareSkills.io Rust Security Bootcamp** - Advanced Web3 security: ownership/signer validation, integer overflow protection, CPI attack prevention, smart contract auditing
-* **Ackee School of Solana Season 7** - Graduate of advanced program development, security and ecosystem architecture (13% graduation rate)
+**Finance & FinOps:** FP&A, forecasting, variance analysis, cost-benefit analysis, federal appropriations, OMB A-123, FinOps Framework, FOCUS specification, AWS Cost Explorer, Compute Optimizer, Trusted Advisor
 
-<img src="./S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="300">
-<img src="./Contributor.NFT" alt="Ackee Contributor NFT" width="300">
+**Languages:** Rust (production), Python (analytical), TypeScript, SQL
 
-* **Let's Get Rusty Live Accelerator** - Production-grade microservices with JWT/Argon2, Docker deployment, scalable backend architecture
-* **Let's Get Rusty Bootcamp** - Comprehensive Rust systems programming
-* **AGA Member** - Association of Government Accountants
-* RareCode Learning Platform - Pre-deployment alpha tester
+**Cloud:** AWS (EC2, S3, GPU instances g5/p4d, Cost & Usage Reports, FOCUS data), Azure (basic)
 
-## Contact
+**AI / GPU:** Whisper STT, PyTorch / Libtorch C++ bindings for Rust, GPU instance economics, inference cost modeling
 
-paragoner.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/rustdevsec) | Fayetteville, AR
+**Blockchain:** Solana (Native, Anchor, PDAs, CPIs, Token 2022, Pinocchio), Ackee Blockchain Security School Season 7 graduate (13% pass rate)
 
-Open to fractional or full-time finance leadership roles at healthcare, healthtech, or AI companies. Especially drawn to teams building things that actually improve how people access care - I managed behavioral health and suicide prevention budgets at the VA. I've seen the problem from the inside.
+**Infra:** Docker, GitHub Actions, PostgreSQL, Redis, JWT/Argon2 with 2FA
+
+## Credentials
+
+- FinOps Certified Practitioner (FOCP), April 2026
+- Ackee School of Solana Season 7 graduate (13% pass rate)
+- RareSkills Rust Security Bootcamp
+- Let's Get Rusty Live Accelerator, October 2025 (Cert #7364000899)
+- Master's Certificate in Federal Financial Management, Graduate School USA
+- B.S. Business Administration: Accounting, University of Arkansas
+
+[![Let's Get Rusty Accelerator Certificate](lgr-accelerator-cert.png)](lgr-accelerator-cert.png)
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/rustdevsec](https://www.linkedin.com/in/rustdevsec)
+- Email: paragoner.dev@gmail.com 
