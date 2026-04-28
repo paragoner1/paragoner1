@@ -2,7 +2,7 @@
 
 **FinOps Certified Practitioner | Healthcare Finance Leader (CFO) | Cloud Cost & AI Infrastructure Economics**
 
-[![FinOps Certified Practitioner](finops-certified-practitioner.png)](https://www.credly.com/badges/9aded7cd-77ad-469a-b9b7-eadf9de9cf9d/public_url) [![Ackee Graduation Certificate](S7-graduate-badge.png)](S7-graduate-badge.png) [![Ackee Contributor NFT](Contributor.NFT)](Contributor.NFT)
+<a href="https://www.credly.com/badges/9aded7cd-77ad-469a-b9b7-eadf9de9cf9d/public_url"><img src="finops-certified-practitioner.png" alt="FinOps Certified Practitioner" width="130"></a>&nbsp;&nbsp;<a href="S7-graduate-badge.png"><img src="S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="130"></a>&nbsp;&nbsp;<a href="Contributor.NFT"><img src="Contributor.NFT" alt="Ackee Contributor NFT" width="130"></a>
 
 ## About me
 
@@ -68,9 +68,9 @@ Practically, that means I can model cost-per-inference for an AI product, run va
 - Master's Certificate in Federal Financial Management, Graduate School USA
 - B.S. Business Administration: Accounting, University of Arkansas
 
-[![Let's Get Rusty Accelerator Certificate](lgr-accelerator-cert.png)](lgr-accelerator-cert.png)
+<a href="lgr-accelerator-cert.png"><img src="lgr-accelerator-cert.png" alt="Let's Get Rusty Accelerator Certificate" width="450"></a>
 
 ## Connect
 
 - LinkedIn: [linkedin.com/in/rustdevsec](https://www.linkedin.com/in/rustdevsec)
-- Email: paragoner.dev@gmail.com 
+- Email: paragoner.dev@gmail.com
