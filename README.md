@@ -2,7 +2,7 @@
 
 **FinOps Certified Practitioner | Healthcare Finance Leader (CFO) | Cloud Cost & AI Infrastructure Economics**
 
-<a href="https://www.credly.com/badges/9aded7cd-77ad-469a-b9b7-eadf9de9cf9d/public_url"><img src="finops-certified-practitioner.png" alt="FinOps Certified Practitioner" width="130"></a>&nbsp;&nbsp;<a href="S7-graduate-badge.png"><img src="S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="130"></a>&nbsp;&nbsp;<a href="Contributor.NFT"><img src="Contributor.NFT" alt="Ackee Contributor NFT" width="130"></a>
+<a href="https://www.credly.com/badges/9aded7cd-77ad-469a-b9b7-eadf9de9cf9d/public_url"><img src="finops-certified-practitioner.png" alt="FinOps Certified Practitioner" width="130"></a>
 
 ## About me
 
@@ -70,7 +70,17 @@ Practically, that means I can model cost-per-inference for an AI product, run va
 
 <a href="lgr-accelerator-cert.png"><img src="lgr-accelerator-cert.png" alt="Let's Get Rusty Accelerator Certificate" width="450"></a>
 
+<a href="S7-graduate-badge.png"><img src="S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="130"></a>&nbsp;&nbsp;<a href="Contributor.NFT"><img src="Contributor.NFT" alt="Ackee Contributor NFT" width="130"></a>
+
+## Continuing education
+
+Active learning track through Pluralsight (free access via Apprenticely):
+
+- FinOps Foundations (completed)
+- Tactical FinOps for AWS learning path, 6 courses (completed April 2026)
+- Continuing through Pluralsight's FinOps, AWS, and cloud cost management catalog
+
 ## Connect
 
 - LinkedIn: [linkedin.com/in/rustdevsec](https://www.linkedin.com/in/rustdevsec)
-- Email: paragoner.dev@gmail.com
+- Email: paragoner.dev@gmail.com 
