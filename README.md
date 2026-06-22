@@ -68,8 +68,6 @@ Practically, that means I can model cost-per-inference for an AI product, run va
 - Master's Certificate in Federal Financial Management, Graduate School USA
 - B.S. Business Administration: Accounting, University of Arkansas
 
-<a href="lgr-accelerator-cert.png"><img src="lgr-accelerator-cert.png" alt="Let's Get Rusty Accelerator Certificate" width="450"></a>
-
 <a href="S7-graduate-badge.png"><img src="S7-graduate-badge.png" alt="Ackee Graduation Certificate" width="130"></a>&nbsp;&nbsp;<a href="Contributor.NFT"><img src="Contributor.NFT" alt="Ackee Contributor NFT" width="130"></a>
 
 ## Continuing education
