@@ -1,4 +1,4 @@
-# Hi, I'm Ryan O'Meara
+# Hi, I'm Paragoner
 
 **FinOps Certified Practitioner | Healthcare Finance Leader (CFO) | Cloud Cost & AI Infrastructure Economics**
 
